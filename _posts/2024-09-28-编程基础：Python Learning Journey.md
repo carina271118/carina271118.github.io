@@ -1,8 +1,7 @@
 ---
 layout:     post
-title:      我的编程之旅：Python与GitHub初体验
-subtitle:   编程之旅
-date:       2024-10-20
+title:      编程基础：Python Learning Journey
+date:       2024-09-28
 author:     BY
 header-img: img/post-bg-cook.jpg
 catalog: true
@@ -10,7 +9,15 @@ tags:
     - iOS
 ---
 
-## 前言
+
+## Python Learning Journey
+作为一名香港岭南大学融合科技理学硕士的学生，我最近完成了计算机编程基础课程。
+这门课程不仅让我掌握了变量、循环、条件语句等基本概念，还让我对编程有了更深入的理解。
+今天，我成功编写了一个数据分析脚本，它能够从数千条数据中提取关键信息，这让我对编程的热情更加高涨。
+这门课程不仅提升了我的技术能力，也让我对未来的科技应用充满期待。
+
+
+
 作为一名编程新手，我踏上了探索Python和GitHub的旅程。Python以其简洁明了的语法和强大的功能吸引了我，而GitHub则是代码管理与协作的圣地。以下是我在学习过程中的笔记和心得体会，希望对同样处于起点的你有所帮助。
 
 ## 正文
